@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\LZ77\LZ77\bin\Debug\LZ77.exe.config
+C:\Users\Razvan\source\repos\LZ77\LZ77\bin\Debug\LZ77.exe
+C:\Users\Razvan\source\repos\LZ77\LZ77\bin\Debug\LZ77.pdb
+C:\Users\Razvan\source\repos\LZ77\LZ77\obj\Debug\LZ77.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\LZ77\LZ77\obj\Debug\LZ77.exe
+C:\Users\Razvan\source\repos\LZ77\LZ77\obj\Debug\LZ77.pdb
+C:\Users\Razvan\source\repos\LZ77\LZ77\obj\Debug\LZ77.csprojAssemblyReference.cache
